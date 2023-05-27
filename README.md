@@ -1,4 +1,4 @@
-Atividade prática sobre estrutura de dados em Python. 
+Atividade prática sobre estrutura de dados em Python. <br/>
 Python tem uma função count que retorna quantas vezes um determinado elemento aparece em uma lista. 
 Utilizando o algoritmo de busca mostrado em aula, modifique-o e implemente em python um algoritmo que seja semelhante a função count, retornando quantas vezes um dado elemento aparece em uma lista. 
 
